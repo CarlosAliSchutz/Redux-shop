@@ -26,4 +26,3 @@ O novo estado é uma lista com o produto adicionado, todos os componentes que us
 
 ## Tecnologias usadas
 [![Technologies](https://skillicons.dev/icons?i=js,html,css,react,redux&perline=5)](https://skillicons.dev)
-# Redux-shop
