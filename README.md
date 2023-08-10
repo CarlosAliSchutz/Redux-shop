@@ -25,4 +25,4 @@ Essa action vai ser dispachada para o reducer que ouve a action, pega todos os p
 O novo estado é uma lista com o produto adicionado, todos os componentes que usam esse estado são atualizados.
 
 ## Tecnologias usadas
-[![Technologies](https://skillicons.dev/icons?i=js,html,css,react,redux&perline=5)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=js,html,react,styledcomponents,redux&perline=5)](https://skillicons.dev)
